@@ -8,3 +8,4 @@ seventh change.
 branch dev revise.
 branch master eat feature.
 branch nofast
+branch fast
